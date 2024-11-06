@@ -1,1 +1,2 @@
 # Facial-Detection-using-Deep-Learning
+This project implements a model for classifying facial expressions from images. Using a deep learning approach, the model processes facial image representations to recognize and categorize various expressions, such as happiness, sadness, anger, surprise, and more. The repository includes data preprocessing steps, model training, and evaluation scripts to assess accuracy on standard facial expression datasets.
